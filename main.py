@@ -32,8 +32,7 @@ def who_have_raise(conn):
     """
     if conn:
         query = """
-        SELECT `Id pracownika`, `Imię Pracownika`, `Nazwisko Pracownika`, 
-        `Data zatrudnienia`, `Staż pracy`, `Na urlopie`, `Stawka za godzine`
+        SELECT CONCAT(`Imię Pracownika`, " ", `Nazwisko Pracownika`) AS `Pracownik`, `Stawka za godzine`
         FROM Pracownicy
         WHERE `Stawka za godzine` > 10.00
         """
