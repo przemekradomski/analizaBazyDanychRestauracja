@@ -35,13 +35,14 @@ Program wyświetla tabele z pracownikami, tylko co dostaną podwyżkę
 ## Autor
 Przemek Radomski
 
+##
 Projekt edukacyjny – fikcyjna baza danych restauracji.
 
 ## Zrzut ekranu projektu
 
 ![Zrzut ekranu](screens/screenshot.png)
 
-## -----------------------------------
+
 projekt możesz modyfikować i rozbudowywać
 
 
