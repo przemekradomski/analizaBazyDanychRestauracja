@@ -32,17 +32,19 @@ Program wyświetla tabele z pracownikami, tylko co dostaną podwyżkę
 - Wczytywanie struktury i danych bazy z pliku SQL.
 - Analiza pracowników, którzy otrzymają podwyżkę (stawka > 10.00).
 
-## Autor
-Przemek Radomski
 
-##
-Projekt edukacyjny – fikcyjna baza danych restauracji.
+
 
 ## Zrzut ekranu projektu
 
 ![Zrzut ekranu](screens/screenshot.png)
 
+## Autor
+Przemek Radomski
 
+##
+Projekt edukacyjny – fikcyjna baza danych restauracji.
+##
 projekt możesz modyfikować i rozbudowywać
 
 
